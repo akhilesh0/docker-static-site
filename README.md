@@ -8,4 +8,4 @@ docker port static-site
 
 Check the ngnix running....
 --------------------------------
-http://localhost:<port>
+http://localhost:32771
