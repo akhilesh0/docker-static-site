@@ -1,4 +1,6 @@
 FROM nginx
+# Dockerfile author / maintainer 
+MAINTAINER Name akhilesh0
 
 COPY wrapper.sh /
 
